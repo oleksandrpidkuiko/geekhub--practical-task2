@@ -1,0 +1,10 @@
+.header {
+  border: 1px solid #c2185b;
+  padding: 25px;
+}
+
+.header-link, .header-link:active, .header-link:visited, .header-link:focus {
+  padding: 50px;
+  color: white;
+  text-decoration: none;
+}

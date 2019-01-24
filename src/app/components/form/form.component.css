@@ -1,0 +1,21 @@
+.form-wrapper {
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
+
+.form {
+  max-width: 200px;
+  padding: 50px;
+  display: block;
+  margin: 0 auto;
+  border: 1px solid #c2185b;
+}
+
+.send-btn {
+  text-align: center;
+}
+
+.form-section {
+  padding: 50px;
+}
